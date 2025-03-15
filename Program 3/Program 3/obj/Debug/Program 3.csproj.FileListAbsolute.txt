@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Homework\UofL\Fall 2023\CIS 199\Program 3\Program 3\obj\Debug\Program 3.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Homework\UofL\Fall 2023\CIS 199\Program 3\Program 3\obj\Debug\Program_3.Form1.resources
+C:\Users\Alexander\Desktop\Homework\UofL\Fall 2023\CIS 199\Program 3\Program 3\obj\Debug\Program_3.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Homework\UofL\Fall 2023\CIS 199\Program 3\Program 3\obj\Debug\Program 3.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Homework\UofL\Fall 2023\CIS 199\Program 3\Program 3\obj\Debug\Program 3.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Homework\UofL\Fall 2023\CIS 199\Program 3\Program 3\bin\Debug\Program 3.exe.config
+C:\Users\Alexander\Desktop\Homework\UofL\Fall 2023\CIS 199\Program 3\Program 3\bin\Debug\Program 3.exe
+C:\Users\Alexander\Desktop\Homework\UofL\Fall 2023\CIS 199\Program 3\Program 3\bin\Debug\Program 3.pdb
+C:\Users\Alexander\Desktop\Homework\UofL\Fall 2023\CIS 199\Program 3\Program 3\obj\Debug\Program 3.exe
+C:\Users\Alexander\Desktop\Homework\UofL\Fall 2023\CIS 199\Program 3\Program 3\obj\Debug\Program 3.pdb
